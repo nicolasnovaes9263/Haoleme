@@ -17,3 +17,4 @@ Notes and usage details for Haoleme.
 - link the usage section
 - fix a small wording issue
 - link the usage section
+- clarify the setup steps
