@@ -19,3 +19,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // guard against empty input
 // clarify the control flow
 // avoid re-reading the config on every call
+// avoid re-reading the config on every call
