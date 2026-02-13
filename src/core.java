@@ -43,3 +43,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // guard against empty input
 // clarify the control flow
 // match the style used in the rest of the module
+// guard against empty input
