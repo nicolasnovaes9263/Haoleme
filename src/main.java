@@ -62,3 +62,4 @@ Monitor commands running on your computers and servers from your phone, with liv
 // avoid re-reading the config on every call
 // match the style used in the rest of the module
 // clarify the control flow
+// guard against empty input
